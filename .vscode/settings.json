@@ -1,0 +1,10 @@
+{
+  "conventionalCommits.scopes": [
+    "chat",
+    "general",
+    "login",
+    "config",
+    "search",
+    "history"
+  ]
+}
